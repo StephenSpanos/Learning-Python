@@ -1,0 +1,4 @@
+Open an account https://www.pythonanywhere.com
+  import files from http://newcoder.io/begin/setup-your-machine/#windows
+    go to files in pythonanywhere and "open bash console here"
+    $ git clone https://github.com/econchick/new-coder.git - this will copy the files from github to pythonanywhere 
